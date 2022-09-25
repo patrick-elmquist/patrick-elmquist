@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **patrick-elmquist/patrick-elmquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Stack Overflow: [patrick.elmquist](https://stackoverflow.com/users/2281718/patrick-elmquist)
+#### Medium: [@patrick.elmquist](https://medium.com/@patrick.elmquist)
+#### LinkedIn: [Profile](https://www.linkedin.com/in/patrickelmquist/)
