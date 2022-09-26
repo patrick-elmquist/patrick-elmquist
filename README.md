@@ -19,9 +19,9 @@ Nice stats themes:
 ### Hi there 👋
 
 #### Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=patrick-elmquist&count_private=true&show_icons=true&theme=aura_dark&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=patrick-elmquist&count_private=true&show_icons=true&theme=onedark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-elmquist&layout=compact&theme=aura_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-elmquist&layout=compact&theme=onedark&hide_border=true)
 
 #### Around the world wide web
 - Stack Overflow: [patrick.elmquist](https://stackoverflow.com/users/2281718/patrick-elmquist)
