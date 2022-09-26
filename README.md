@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 #### Stack Overflow: [patrick.elmquist](https://stackoverflow.com/users/2281718/patrick-elmquist)
 #### Medium: [@patrick.elmquist](https://medium.com/@patrick.elmquist)
 #### LinkedIn: [Profile](https://www.linkedin.com/in/patrickelmquist/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=patrick-elmquist&count_private=true&show_icons=true&theme=aura_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-elmquist&layout=compact&theme=aura_dark)
