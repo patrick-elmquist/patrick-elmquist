@@ -1,5 +1,4 @@
 <!--
-### Hi there 👋
 **patrick-elmquist/patrick-elmquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,12 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Nice stats themes:
+- aura_dark
+- onedark
 -->
+### Hi there 👋
 
-#### Stack Overflow: [patrick.elmquist](https://stackoverflow.com/users/2281718/patrick-elmquist)
-#### Medium: [@patrick.elmquist](https://medium.com/@patrick.elmquist)
-#### LinkedIn: [Profile](https://www.linkedin.com/in/patrickelmquist/)
+#### Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=patrick-elmquist&count_private=true&show_icons=true&theme=aura_dark&hide_border=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=patrick-elmquist&count_private=true&show_icons=true&theme=aura_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-elmquist&layout=compact&theme=aura_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-elmquist&layout=compact&theme=aura_dark)
+#### Around the world wide web
+- Stack Overflow: [patrick.elmquist](https://stackoverflow.com/users/2281718/patrick-elmquist)
+- Medium: [@patrick.elmquist](https://medium.com/@patrick.elmquist)
+- LinkedIn: [Profile](https://www.linkedin.com/in/patrickelmquist/)
+
