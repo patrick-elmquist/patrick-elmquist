@@ -21,6 +21,6 @@ Nice stats themes:
 #### Around the world wide web
 - Stack Overflow: [patrick.elmquist](https://stackoverflow.com/users/2281718/patrick-elmquist)
 - Medium: [@patrick.elmquist](https://medium.com/@patrick.elmquist)
-- LinkedIn: [Profile](https://www.linkedin.com/in/patrickelmquist/)
+- LinkedIn: [in/patrickelmquist](https://www.linkedin.com/in/patrickelmquist/)
 - Monkeytype: [pagge](https://monkeytype.com/profile/pagge)
 
